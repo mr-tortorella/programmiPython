@@ -1,1 +1,1 @@
-print("In bocca la lupo per il percorso abilitante")
+print("In bocca la lupo per il percorso abilitante per gli esami")
